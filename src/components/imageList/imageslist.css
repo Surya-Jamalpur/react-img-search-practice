@@ -1,0 +1,11 @@
+.listofimgs {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    width: 1200px;
+    margin: 0px auto;
+}
+.listofimgs img {
+    width: 200px;
+    float: left;
+}
